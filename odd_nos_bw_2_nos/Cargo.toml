@@ -1,6 +1,0 @@
-[package]
-name = "odd_nos_bw_2_nos"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
