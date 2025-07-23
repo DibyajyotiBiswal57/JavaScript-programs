@@ -1,6 +1,0 @@
-[package]
-name = "add_3_numbers"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
